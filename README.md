@@ -10,4 +10,6 @@ I am a Brian and I edited this.
 
 I edited this on brianb3 branch
 
+Edited through github not git
+
  
